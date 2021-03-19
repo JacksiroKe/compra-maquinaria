@@ -2,7 +2,7 @@
   'class' => 'off-canvas-sidebar',
   'classPage' => 'register-page',
   'activePage' => 'register',
-  'title' => __('HMA Project Dashboard'),
+  'title' => __('Compra Maquinaria'),
   'pageBackground' => asset("material").'/img/register.jpg'
 ])
 
